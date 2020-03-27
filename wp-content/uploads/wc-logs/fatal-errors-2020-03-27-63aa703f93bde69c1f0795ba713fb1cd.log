@@ -1,0 +1,12 @@
+2020-03-27T21:07:50+00:00 CRITICAL syntax error, unexpected ';', expecting ',' or ')' in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\footer.php on line 43
+
+2020-03-27T21:07:55+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-parts\content.php on line 29
+
+2020-03-27T21:08:04+00:00 CRITICAL syntax error, unexpected ';', expecting ',' or ')' in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\footer.php on line 43
+
+2020-03-27T21:18:29+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-parts\content.php on line 29
+
+2020-03-27T21:20:35+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-parts\content.php on line 29
+
+2020-03-27T21:20:40+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-parts\content.php on line 29
+

@@ -1,0 +1,20 @@
+2020-03-09T07:38:40+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-home.php on line 127
+
+2020-03-09T08:10:42+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-home.php on line 148
+
+2020-03-09T08:53:29+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\index.php on line 41
+
+2020-03-09T09:21:33+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\page.php on line 25
+
+2020-03-09T10:11:23+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\single.php on line 45
+
+2020-03-09T10:11:52+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\single.php on line 45
+
+2020-03-09T15:36:27+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\footer.php on line 24
+
+2020-03-09T15:38:18+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\footer.php on line 24
+
+2020-03-09T15:38:23+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\footer.php on line 24
+
+2020-03-09T15:39:02+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\footer.php on line 29
+

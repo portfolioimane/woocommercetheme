@@ -1,0 +1,44 @@
+2020-03-07T12:03:54+00:00 CRITICAL Uncaught Error: Call to undefined function do_shortchode() in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-home.php:61
+Stack trace:
+#0 C:\xampp\htdocs\woocommercetheme\wp-includes\template-loader.php(98): include()
+#1 C:\xampp\htdocs\woocommercetheme\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\woocommercetheme\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-home.php on line 61
+
+2020-03-07T12:44:27+00:00 CRITICAL Uncaught Error: Call to a member function add_section() on null in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\inc\customizer.php:159
+Stack trace:
+#0 C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\functions.php(14): require_once()
+#1 C:\xampp\htdocs\woocommercetheme\wp-settings.php(497): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\woocommercetheme\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\woocommercetheme\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\woocommercetheme\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\woocommercetheme\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\inc\customizer.php on line 159
+
+2020-03-07T12:45:29+00:00 CRITICAL Uncaught Error: Call to a member function add_section() on null in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\inc\customizer.php:159
+Stack trace:
+#0 C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\functions.php(14): require_once()
+#1 C:\xampp\htdocs\woocommercetheme\wp-settings.php(497): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\woocommercetheme\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\woocommercetheme\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\woocommercetheme\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\woocommercetheme\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\inc\customizer.php on line 159
+
+2020-03-07T18:12:32+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-home.php on line 121
+
+2020-03-07T18:12:39+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-home.php on line 121
+
+2020-03-07T18:12:58+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-home.php on line 121
+
+2020-03-07T18:13:04+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-home.php on line 121
+
+2020-03-07T18:13:10+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-home.php on line 121
+
+2020-03-07T18:13:20+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-home.php on line 121
+
+2020-03-07T18:17:25+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\woocommercetheme\wp-content\themes\fancy-lab\template-home.php on line 122
+
